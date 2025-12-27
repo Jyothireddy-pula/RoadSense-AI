@@ -4,7 +4,7 @@
 *(Advanced Extension of iWatchRoadv2)*
 
 ## 📌 Overview
-RoadSense AI is a real-world, AI-driven road safety and navigation system designed to detect potholes, warn drivers in real time, and support government road maintenance workflows
+RoadSense AI is a real-world, AI-driven road safety and navigation system designed to detect potholes, warn drivers in real time, and support government road maintenance workflow
 
 Built as an advanced extension of iWatchRoadv2, this project bridges the gap between infrastructure monitoring and citizen safety using AI, GPS, and modern web technologies.
 
