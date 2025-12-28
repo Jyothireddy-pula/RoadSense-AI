@@ -88,7 +88,7 @@ A demo video showing real GPS-based alerts and navigation is included in the dem
 ---
 
 ## 🧾 Interview One-Line Explanation
-“I built RoadSense AI, an AI-powered pothole-aware navigation system that detects road hazards, alerts drivers in real time, and helps authorities manage road infrastructure efficiently.”\
+“I built RoadSense AI, an AI-powered pothole-aware navigation system that detects road hazards, alerts drivers in real time, and helps authorities manage road infrastructure efficiently.”
 
 ---
 
