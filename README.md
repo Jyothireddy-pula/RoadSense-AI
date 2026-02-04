@@ -99,6 +99,7 @@ A demo video showing **real GPS-based alerts** is available in the `demo` folder
 
 ---
 
+
 ## 🔮 Future Improvements
 - Android & iOS mobile app  
 - Offline navigation support  
