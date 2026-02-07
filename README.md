@@ -1,7 +1,7 @@
 # 🚧 RoadSense AI  
 ### AI-Powered Pothole-Aware Navigation & Road Safety Platform  
 *Advanced extension of iWatchRoadv2*
-
+ 
 ---
 
 ## 📌 What is RoadSense AI?
